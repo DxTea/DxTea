@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1> Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=28112B00&center=true&vCenter=true&random=false&width=435&lines=I'm+Semyon;Junior+Python+Developer;Looking+for+a+Job" alt="Typing SVG" /></a>
+
+
 
 <!--
 **DxTea/DxTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
