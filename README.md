@@ -32,7 +32,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DxTea)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="450" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact" title="Top Langs" alt="Top Langs" width="430" height="190"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact" title="Top Langs" alt="Top Langs" width="400" height="170"/> 
 
 ---
 
