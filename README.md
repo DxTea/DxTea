@@ -29,17 +29,18 @@
 
 ---
 ### Stats:
+
 ![](https://komarev.com/ghpvc/?username=DxTea)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact)](https://github.com/DxTea/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="450" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact" title="Top Langs" alt="Top Langs" width="430" height="190"/> 
 
 ---
 
 ### Contacts:
 <div>
-    <a href="https://t.me/LemonJuice74">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
+    <a href="https://t.me/LemonJuice74"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+    <a href="https://discordapp.com/users/287599936516784129"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+    <a href="mailto:pomidorka_030@mail.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <!--
 **DxTea/DxTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
