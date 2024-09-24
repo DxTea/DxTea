@@ -24,7 +24,7 @@
 ### OS:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Win11" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/manjaro/manjaro-icons/blob/master/green/green.svg" title="Manjaro" alt="Manjaro" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Manjaro" alt="Manjaro" width="40" height="40"/>&nbsp;
 </div>
 
 ---
