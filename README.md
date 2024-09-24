@@ -30,7 +30,8 @@
 ---
 ### Stats:
 
-![](https://komarev.com/ghpvc/?username=DxTea)
+<!--![](https://komarev.com/ghpvc/?username=DxTea)-->
+[![](https://visitcount.itsvg.in/api?id=DxTea&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact" title="Top Langs" alt="Top Langs" width="400" height="170"/> 
 
