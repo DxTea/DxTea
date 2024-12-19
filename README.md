@@ -44,8 +44,15 @@
 <!--![](https://komarev.com/ghpvc/?username=DxTea)-->
 [![](https://visitcount.itsvg.in/api?id=DxTea&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact" title="Top Langs" alt="Top Langs" width="400" height="170"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=dark#gh-dark-mode-only" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact&hide_border=True&theme=dark#gh-dark-mode-only" title="Top Langs" alt="Top Langs" width="400" height="170"/> 
 
+
+<!--
+[![DxTea's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![DxTea's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact&hide_border=True&theme=dark#gh-dark-mode-only)
+-->
 ---
 
 ### Contacts:
