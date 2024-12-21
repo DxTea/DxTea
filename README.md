@@ -8,7 +8,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Django & React<br>🎯 Goals: earn 1000$ per sec
-  <br>🎲 Daily quote:</p>
+  <br>🎲 Random quote:</p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" title="Quote" alt="Quote" width="735"/>
 
 ###
