@@ -1,11 +1,21 @@
 # Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=28112B00&random=false&width=435&lines=I'm+Semyon;Junior+Python+Developer;Looking+for+a+Job" alt="Typing SVG" /></a>
-</div>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=28112B00&random=false&width=435&lines=I'm+Semyon;Junior+Python+Developer;Looking+for+a+Job" alt="Typing SVG" /></a></div>
 
 ---
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Django & React<br>🎯 Goals: earn 1000$ per sec
+  <br>🎲 Daily quote:</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" title="Quote" alt="Quote" width="735"/>
+
+###
+---
+
 ### Languages & Tools:
+
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -29,6 +39,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
+
 ---
 ### OS:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
@@ -41,20 +52,41 @@
 ---
 ### Stats:
 
-<!--![](https://komarev.com/ghpvc/?username=DxTea)-->
 [![](https://visitcount.itsvg.in/api?id=DxTea&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=dark#gh-dark-mode-only" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact&hide_border=True&theme=dark#gh-dark-mode-only" title="Top Langs" alt="Top Langs" width="400" height="170"/> 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&rank_icon=github&theme=dark#gh-dark-mode-only" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" height="160"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact&hide_border=True&theme=dark&langs_count=8#gh-dark-mode-only" title="Top Langs" alt="Top Langs" height="160"/>&nbsp;
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DxTea&theme=dark&hide_border=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>
-<img align="center" src="https://raw.githubusercontent.com/DxTea/DxTea/output/snake.svg" alt="Snake animation" width="400" height="210"/>
+<div>
+  
+  <img src="https://streak-stats.demolab.com?user=DxTea&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3"  height="143" alt="streak graph" />&nbsp;
+  <img src="https://streak-stats.demolab.com?user=DxTea&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="143" alt="streak graph" />
+</div>
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DxTea&radius=16&theme=react&area=true&order=5&bg_color=151515&line=fb8c00&point=ffb000&hide_border=true&area_color=ffda88" height="257" alt="activity-graph graph" />
+</div>
+
+
+### Trophies
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app?username=DxTea&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" width= "735" alt="trophy graph" />
+</div>
+
+### Contributions:
+#### Snake
+<div >
+<img align="center" src="https://raw.githubusercontent.com/DxTea/DxTea/output/snake.svg" alt="Snake animation" width= "735" />
+</div>
+
 <!--
-[![DxTea's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![DxTea's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+#### Game of life
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact&hide_border=True&theme=dark#gh-dark-mode-only)
+[![GitHub Game of Life](https://github4life.herokuapp.com/DxTea.gif?z=6&theme=dark)](https://github4life.herokuapp.com/DxTea)
 -->
----
 
 ### Contacts:
 <div>
