@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 </div>
 
 
-### Trophies
+### Trophies:
 
 <div>
   <img src="https://github-profile-trophy.vercel.app?username=DxTea&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" width= "735" alt="trophy graph" />
