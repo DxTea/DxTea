@@ -88,7 +88,7 @@
 [![GitHub Game of Life](https://github4life.herokuapp.com/DxTea.gif?z=6&theme=dark)](https://github4life.herokuapp.com/DxTea)
 -->
 
-### Contacts:
+## Contacts:
 <div>
     <a href="https://t.me/LemonJuice74"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
     <a href="https://discordapp.com/users/287599936516784129"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
