@@ -62,7 +62,7 @@
 <div>
   
   <img src="https://streak-stats.demolab.com?user=DxTea&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3"  height="143" alt="streak graph" />&nbsp;
-  <img src="https://streak-stats.demolab.com?user=DxTea&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="143" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=DxTea&locale=en&mode=weekly&hide_total_contributions=true&theme=dark&hide_border=true&border_radius=5&order=3" height="143" alt="streak graph" />
 </div>
 
 <div>
