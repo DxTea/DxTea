@@ -46,7 +46,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=dark#gh-dark-mode-only" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxTea&layout=compact&hide_border=True&theme=dark#gh-dark-mode-only" title="Top Langs" alt="Top Langs" width="400" height="170"/> 
 
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DxTea&theme=dark&hide_border=true" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" width="400" height="210"/>
+<img align="center" src="https://raw.githubusercontent.com/DxTea/DxTea/output/snake.svg" alt="Snake animation" width="400" height="210"/>
 <!--
 [![DxTea's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![DxTea's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
