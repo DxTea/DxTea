@@ -52,7 +52,7 @@
 ---
 ### Stats:
 
-[![](https://visitcount.itsvg.in/api?id=DxTea&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=DxTea&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcountpro.netlify.app)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DxTea&show_icons=true&hide_border=True&rank_icon=github&theme=dark#gh-dark-mode-only" title="DxTea's GitHub stats" alt="DxTea's GitHub stats" height="160"/>&nbsp;
