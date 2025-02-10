@@ -69,6 +69,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DxTea&radius=16&theme=react&area=true&order=5&bg_color=151515&line=fb8c00&point=ffb000&hide_border=true&area_color=ffda88" height="257" alt="activity-graph graph" />
 </div>
 
+---
 
 ### Trophies:
 
@@ -76,7 +77,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=DxTea&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" width= "735" alt="trophy graph" />
 </div>
 
+---
+
 ### Contributions:
+
+
 #### Snake
 <div >
 <img align="center" src="https://raw.githubusercontent.com/DxTea/DxTea/output/snake.svg" alt="Snake animation" width= "735" />
