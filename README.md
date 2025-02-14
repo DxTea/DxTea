@@ -1,5 +1,5 @@
 # Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=28112B00&random=false&width=435&lines=I'm+Semyon;Junior+Python+Developer;Looking+for+a+Job" alt="Typing SVG" /></a></div>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=28112B00&random=false&width=435&lines=I'm+Semyon;Python+Backend+Developer;Looking+for+a+Job" alt="Typing SVG" /></a></div>
 
 ---
 
