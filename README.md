@@ -37,6 +37,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" title="Obsidian notes" **alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
 
