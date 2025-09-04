@@ -3,7 +3,18 @@
 
 ---
 
-<h2 align="left">About me:</h2>
+<p align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/About%20me-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" alt="About me"/></a>
+  <a href="#-languages--tools"><img src="https://img.shields.io/badge/Skills-00BFFF?style=for-the-badge&logo=code&logoColor=white" alt="Skills"/></a>
+  <a href="#os"><img src="https://img.shields.io/badge/OS-228B22?style=for-the-badge&logo=windows11&logoColor=white" alt="OS"/></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/Stats-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Stats"/></a>
+  <a href="#trophies"><img src="https://img.shields.io/badge/Trophies-DAA520?style=for-the-badge&logo=starship&logoColor=white" alt="Trophies"/></a>
+  <a href="#contacts"><img src="https://img.shields.io/badge/Contacts-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contacts"/></a>
+</p>
+
+---
+
+<h2 align="left">About me</h2>
 
 ###
 
@@ -14,36 +25,50 @@
 ###
 ---
 
-### Languages & Tools:
+### 🛠 Languages & Tools
 
+#### 🔹 Backend
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/uttampun44/skill-icons/blob/ddd02a13e6476518fae83d59ea172d1b2091d2cf/icons/Rest-Api.svg" title="DRF" alt="DRF" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
+#### 🔹 Frontend
+<div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" title="Obsidian notes" **alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</div>
+
+#### 🔹 Tools & DevOps
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+</div>
+
+#### 🔹 Other
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
 </div>
 
 
+
 ---
-### OS:
+### OS
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 <!--
 <div>
@@ -52,7 +77,7 @@
 </div>
 -->
 ---
-### Stats:
+### Stats
 
 [![](https://visitcountpro.netlify.app/api?id=DxTea&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcountpro.netlify.app)
 
@@ -73,7 +98,7 @@
 
 ---
 
-### Trophies:
+### Trophies
 
 <div>
   <img src="https://github-profile-trophy.vercel.app?username=DxTea&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" width= "735" alt="trophy graph" />
@@ -81,7 +106,7 @@
 
 ---
 
-### Contributions:
+### Contributions
 
 
 #### Snake
@@ -95,7 +120,7 @@
 [![GitHub Game of Life](https://github4life.herokuapp.com/DxTea.gif?z=6&theme=dark)](https://github4life.herokuapp.com/DxTea)
 -->
 
-## Contacts:
+## Contacts
 <div>
     <a href="https://t.me/LemonJuice74"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
     <a href="https://discordapp.com/users/287599936516784129"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
